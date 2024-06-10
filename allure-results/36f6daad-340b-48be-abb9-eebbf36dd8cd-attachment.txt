@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "ejs-schedule.doctor-appointment-planner"
+}
